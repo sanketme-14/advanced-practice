@@ -1,0 +1,17 @@
+body {
+    font-family:Arial, Helvetica, sans-serif ;
+    text-align: center;
+    background-color: #d59090;
+    color: blue;
+     
+
+
+}
+.sidebar{
+    background-color: #d59090;
+}
+.breadcrumb{
+    background-color: #d59090;
+    color: blue;
+    font-size: 20px;
+}
