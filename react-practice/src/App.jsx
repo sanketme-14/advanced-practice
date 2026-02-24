@@ -5,9 +5,12 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
 
-  function calculateTotal(price, tax) {
-    return price + tax + 8;
-  }
+
+function calculateTotal(price, tax) {
+  const total = price + tax;
+  console.log("Total calculated");
+  return total;
+}
 
   return (
     <>
