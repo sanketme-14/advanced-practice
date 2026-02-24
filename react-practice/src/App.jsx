@@ -6,7 +6,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   function calculateTotal(price, tax) {
-    return price + tax + 5;
+    return price + tax + 8;
   }
 
   return (
