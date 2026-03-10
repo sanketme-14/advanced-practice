@@ -7,7 +7,7 @@ function App() {
 
 
 function calculateTotal(price, tax) {
-  const total = price + tax;
+  const total = price + tax + 9 + 8;
   console.log("Total calculated");
   return total;
 }
